@@ -1,0 +1,20 @@
+.TaskTable {
+    width: 100%;
+    border-collapse: collapse;
+    border: solid 1px #000;
+    margin: 2px;
+}
+
+tr:nth-child(even) {}
+
+tr:nth-child(odd) {
+    background: rgb(242, 221, 252)
+}
+
+
+/*
+td,
+th {
+    border-right: solid 1px #000;
+    border-left: solid 1px #000;
+} */

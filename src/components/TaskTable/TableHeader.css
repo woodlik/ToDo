@@ -1,0 +1,15 @@
+.tableHeader-sort {
+    float: right
+}
+
+.tableHeader-divOuter {
+    display: table;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.tableHeader-divInner {
+    display: table-cell;
+    vertical-align: middle;
+}

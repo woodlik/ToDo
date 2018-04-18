@@ -1,0 +1,17 @@
+.Filter-fieldset {
+    width: 100%;
+}
+
+.Filter-input {
+    width: 150px;
+    margin: 5px;
+}
+
+.Filter-text {
+    width: 480px;
+    margin: 5px;
+}
+
+.fieldDate {
+    margin: 0, 0, 0 20px;
+}

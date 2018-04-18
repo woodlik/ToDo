@@ -1,0 +1,7 @@
+.TaskWrapper {
+    width: 650px;
+}
+
+.ui .input {
+    display: table-cell;
+}
